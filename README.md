@@ -38,7 +38,11 @@ This will run the application locally
 ## Built With
 
 * React
-* 
-* MVC Paradigm 
 * Bootstrap CSS
+
+## Note
+
+I was unable to get the app deployed to github pages. The app works great locally. 
+
+![Zodiac Signs Game](Zodiacs.PNG)
 
